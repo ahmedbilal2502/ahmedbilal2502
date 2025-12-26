@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a Senior Java & Spring Boot Developer with 5+ years of experience designing and building scalable backend systems, microservices, and enterprise integrations across banking and telecom domains. I specialize in REST APIs, secure financial applications, containerized deployments, and performance-optimized solutions. Passionate about clean architecture, troubleshooting complex systems, and delivering reliable production-grade software.
+I’m a Senior Java & Spring Boot Developer with 5+ years of experience designing and building scalable backend systems, microservices, and enterprise integrations across banking and telecom domains. I specialize in REST APIs, secure financial applications, containerized deployments, and performance-optimized solutions. Passionate about clean architecture, troubleshooting complex systems, and delivering reliable production grade software.
 
 
 # 💻 Tech Stack:
